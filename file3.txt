@@ -1,0 +1,3 @@
+Tasks should be processed efficiently to save time and resources.
+Monitoring worker performance is crucial for task reassignment.
+Parallel processing can significantly improve system performance.

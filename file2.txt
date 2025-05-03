@@ -1,0 +1,3 @@
+MapReduce is a programming model for processing large data sets.
+Coordinators and workers are essential components of distributed systems.
+RPC makes it easier to communicate across machines.
